@@ -9,9 +9,9 @@
 
 
 
-|commande créer repos                   | |commande suppreimer un git remote|
-|---------------------------------------| |---------------------------------|
-|git.init				| |git remote  rm  nom              | 
+|commande créer repos                   |commande suppreimer un git remote|
+|---------------------------------------|---------------------------------|
+|git.init				|git remote  rm  nom              | 
 |git.status				|                                  
 |touch index.html			|
 |git.add.				|	
