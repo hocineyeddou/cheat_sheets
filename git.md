@@ -9,10 +9,10 @@
 
 
 
-|commande créer repos                   |
-|---------------------------------------|
-|git.init				|
-|git.status				|
+|commande créer repos                   | |commande suppreimer un git remote|
+|---------------------------------------| |---------------------------------|
+|git.init				| |git remote  rm  nom              | 
+|git.status				| |                                 |
 |touch index.html			|
 |git.add.				|	
 |git commit -m "frit commit"		|
