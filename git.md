@@ -22,7 +22,7 @@
 |git push -u origin master		|
 |					|
 |commande supprimer un git remote	|
-|---------------------------------------|
+|                                       |
 |git remote  rm    nom			|
 |
 
