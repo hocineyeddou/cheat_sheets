@@ -12,8 +12,8 @@
 |commande créer repos                   |commande supprimer git remote    |
 |---------------------------------------|---------------------------------|
 |git.init				|git remote  rm  nom              | 
-|git.status				|**commande**                                  
-|touch index.html			|
+|git.status				|**commande branch**              |                    
+|touch index.html			|git branch nom                   |
 |git.add.				|	
 |git commit -m "frit commit"		|
 |création repos github			|
