@@ -14,8 +14,8 @@
 |git.init				|git remote  rm  nom              | 
 |git.status				|**commande branch**              |                    
 |touch index.html			|git branch nom                   |
-|git.add.				|	
-|git commit -m "frit commit"		|
+|git.add.				|**commande log**	
+|git commit -m "frit commit"		|git log  -n nbr commit
 |création repos github			|
 |ajout du remote			|
 |git remote add origin collé ici url	|
