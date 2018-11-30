@@ -20,12 +20,10 @@
 |ajout du remote			|
 |git remote add origin collé ici url	|
 |git push -u origin master		|
-|					|
 
 |commande supprimer un git remote	|
-|---------------------------------------|                                      |
+|---------------------------------------| 
 |git remote  rm    nom			|
-|
 
 
 
