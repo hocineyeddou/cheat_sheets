@@ -9,14 +9,11 @@
 * sudo apt-get dist-upgrade
 
 *clear*		nettoyer le terminal
-cli > gui
-cli  = commande line interface
-gui= graphical
 *man*				 manuel d'aide
 ## commande dossier
-*/*				 separation de dossier
-*cd -*				 aller ds le dossier 
-*mkdir + nomdossier*   		 (créer un dossier)
+* / *	 separation de dossier
+* cd - * aller ds le dossier 
+* mkdir + nomdossier *  	 (créer un dossier)
 *rmdir +nomdossier*		 (supprimer un dossier)
 *rm-m +nomdossier* 		 supprimé un dossier de façon récursive  
 *mv aniennom  nouveaunom*	 renommée un dossier
