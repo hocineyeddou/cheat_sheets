@@ -22,7 +22,7 @@
 * rm :supprimer un fichier ou un dossier.
 * rmdir :supprimer un dossier vide (plus sûre que rm).
 * touch :créer un fichier.
-* man :manurl d'aide
+* man :manuel d'aide
 * cat :affiche le contenu de fichier et caractére
 
 
