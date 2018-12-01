@@ -16,10 +16,10 @@
 |touch index.html			|git branch nom                   |
 |git.add.				|**commande log**                 |	
 |git commit -m "frit commit"		|git log  -n nbr de commit        |
-|création repos github			|  
-|ajout du remote			|
-|git remote add origin collé ici url	|
-|git push -u origin master		|
+|création repos github			| 				  | 
+|ajout du remote			|				  |
+|git remote add origin collé ici url	|                                 |
+|git push -u origin master		|                                 |
 
 
 
