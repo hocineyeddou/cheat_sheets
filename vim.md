@@ -15,14 +15,17 @@
 * R 	Active le mode écrasement
 * s 	Remplace un caractère
 * S 	Remplace une ligne entière
-
-
-#les raccourcis de  vim  :
-##raccourcis effacer mot:
+### effacer ligne
+* dd    	ligne effacée
+* 2dd           effacer 2 lignes
+* C             du curseur jusqu’à la fin de la ligne
+* 2w            déplacer 2 mot en avant    
+* d2w           efface 2 mot en avant 
+#les rac
 *dw*            effacer un mot
 *2w*            déplacer 2 mot en avant    
 *d2w*           efface 2 mot en avant 
-##raccourcis effacer ligne :
+llllllllllllllllllllllll
 *dd*            effacer la ligne
 *2dd*           effacer 2 lignes
 *c$*            supprime la fin de cette ligne doit être  c$  devant le mot
