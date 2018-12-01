@@ -2,11 +2,12 @@
 
 
 # Terminal   
-================
+
 ## mise à jour:mj
- sudo apt-get update
- sudo apt-get upgrade
- sudo apt-get dist-upgrade
+* sudo apt-get update
+* sudo apt-get upgrade
+* sudo apt-get dist-upgrade
+
 *clear*		nettoyer le terminal
 cli > gui
 cli  = commande line interface
