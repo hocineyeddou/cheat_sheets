@@ -1,9 +1,9 @@
 ![logo vim](https://www.xaprb.com/media/2014/04/superman.jpg)
 ## vim
-### commande de vim
+## commande de vim
 
 
-## le mode insertion
+### le mode insertion
 touche					commentaire
 #les raccourcis de  vim  :
 ##raccourcis effacer mot:
