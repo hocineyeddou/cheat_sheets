@@ -7,9 +7,8 @@
 * sudo apt-get update
 * sudo apt-get upgrade
 * sudo apt-get dist-upgrade
-
-*clear*		nettoyer le terminal
-*man*				 manuel d'aide
+## nettoyer
+* clear : nettoyer terminal
 ## naviguer
 * cd :se déplacer dans les répertoires
 * ls :lister les répertoires et fichiers
@@ -25,18 +24,6 @@
 * touch : créer un fichier.
 * man : manurl d'aide
 * cat : affiche le contenu de fichier et caractére
- 	 
-## commande dossier
-* / 	 separation de dossier
-* cd  	 aller ds le dossier 
-* mkdir + nomdossier 	  	 créer un dossier
-* rmdir +nomdossier		 supprimer un dossier
-* rm-m +nomdossier 		 supprimé un dossier de façon récursive  
-* mv anciennom  nouveaunom	 renommée un dossier
-## commande fichier
-* ls  -al
-* ls la				 les fichiers et répertoire cachés
-* cat				 affiche le contenu de fichier et caractére
 
 
 
