@@ -1,4 +1,4 @@
-! [logo terminal] ( http://logos.wikia.com/wiki/File:The-terminal-movie-logo.png.) 
+! [logo terminal] ( http://logos.wikia.com/wiki/File:The-terminal-movie-logo.png) 
 
 
 # Terminal = shell  
