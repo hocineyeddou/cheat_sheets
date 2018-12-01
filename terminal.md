@@ -10,6 +10,21 @@
 
 *clear*		nettoyer le terminal
 *man*				 manuel d'aide
+## naviguer
+* cd :se déplacer dans les répertoires
+* ls :lister les répertoires et fichiers
+* pwd :afficher le répertoire où l'on se trouve exatement
+
+## déplacer, copier, renommer
+* cp : copier des fichiers ou des répertoires.
+* mkdir : créer un dossier.
+* mv : renommer ou déplacer un fichier ou un dossier.
+* ln : créer des liens durs et liens symboliques.
+* rm : supprimer un fichier ou un dossier.
+* rmdir : supprimer un dossier vide (plus sûre que rm).
+* touch : créer un fichier.
+
+ 	 
 ## commande dossier
 * / 	 separation de dossier
 * cd  	 aller ds le dossier 
