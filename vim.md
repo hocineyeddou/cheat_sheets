@@ -4,7 +4,17 @@
 
 
 ### le mode insertion
-
+* a 	Insertion après le curseur
+* A 	Insertion en fin de ligne
+* c 	Début d’une opération de remplacement
+* C 	Remplacement jusqu’en fin de ligne
+* i 	Insertion avant le curseur
+* I 	Insertion en début de ligne
+* o 	Insertion à la ligne suivante
+* O 	Insertion à la ligne précédente
+* R 	Active le mode écrasement
+* s 	Remplace un caractère
+* S 	Remplace une ligne entière
 
 
 #les raccourcis de  vim  :
