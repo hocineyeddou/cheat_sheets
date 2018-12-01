@@ -11,18 +11,16 @@
 *clear*		nettoyer le terminal
 *man*				 manuel d'aide
 ## commande dossier
-* / *	 separation de dossier
-* cd - * aller ds le dossier 
-* mkdir + nomdossier *  	 (créer un dossier)
-* rmdir +nomdossier*		 (supprimer un dossier)
-* rm-m +nomdossier* 		 supprimé un dossier de façon récursive  
-* mv anciennom  nouveaunom*	 renommée un dossier
+* / 	 separation de dossier
+* cd  	 aller ds le dossier 
+* mkdir + nomdossier 	  	 créer un dossier
+* rmdir +nomdossier		 supprimer un dossier
+* rm-m +nomdossier 		 supprimé un dossier de façon récursive  
+* mv anciennom  nouveaunom	 renommée un dossier
 ## commande fichier
-*man*				 manuel d’aide
-*man ls*
-*ls  -al*
-*ls la*				 les fichiers et répertoire cachés
-*cat*				affiche le contenu de fichier et caractére
+* ls  -al
+* ls la				 les fichiers et répertoire cachés
+* cat				 affiche le contenu de fichier et caractére
 
 
 
