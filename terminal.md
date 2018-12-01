@@ -12,16 +12,16 @@
 ## naviguer
 * cd :se déplacer dans les répertoires
 * ls :lister les répertoires et fichiers
-* pwd :afficher le répertoire où l'on se trouve exatement
+* pwd :afficher le répertoire où l'on se trouve exactement
 
 ## déplacer, copier, renommer
-* cp :copier des fichiers ou des répertoires.
-* mkdir :créer un dossier.
-* mv :renommer ou déplacer un fichier ou un dossier.
-* ln :créer des liens durs et liens symboliques.
+* cp :copier des fichiers ou des répertoires
+* mkdir :créer un dossier
+* mv :renommer ou déplacer un fichier ou un dossier
+* ln :créer des liens durs et liens symboliques
 * rm :supprimer un fichier ou un dossier.
-* rmdir :supprimer un dossier vide (plus sûre que rm).
-* touch :créer un fichier.
+* rmdir :supprimer un dossier vide (plus sûre que rm)
+* touch :créer un fichier
 * man :manuel d'aide
 * cat :affiche le contenu de fichier et caractére
 
