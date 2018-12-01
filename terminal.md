@@ -1,4 +1,4 @@
-! [logo terminal] (https://pre00.deviantart.net/7108/th/pre/i/2018/071/9/8/unix_terminal_logo_by_dollarakshay-dc5p21n.png)
+! [logo terminal] ( http://logos.wikia.com/wiki/File:The-terminal-movie-logo.png.) 
 
 
 # Terminal = shell  
