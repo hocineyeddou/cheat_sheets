@@ -14,9 +14,9 @@
 * / *	 separation de dossier
 * cd - * aller ds le dossier 
 * mkdir + nomdossier *  	 (créer un dossier)
-*rmdir +nomdossier*		 (supprimer un dossier)
-*rm-m +nomdossier* 		 supprimé un dossier de façon récursive  
-*mv aniennom  nouveaunom*	 renommée un dossier
+* rmdir +nomdossier*		 (supprimer un dossier)
+* rm-m +nomdossier* 		 supprimé un dossier de façon récursive  
+* mv anciennom  nouveaunom*	 renommée un dossier
 ## commande fichier
 *man*				 manuel d’aide
 *man ls*
