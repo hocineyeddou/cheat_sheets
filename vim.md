@@ -4,7 +4,7 @@
 
 
 ### le mode insertion
-#### touche				       #### commentaire
+#### touche				        commentaire
 
 #les raccourcis de  vim  :
 ##raccourcis effacer mot:
