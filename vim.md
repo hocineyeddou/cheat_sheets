@@ -21,15 +21,12 @@
 * C             du curseur jusqu’à la fin de la ligne
 * 2w            déplacer 2 mot en avant    
 * d2w           efface 2 mot en avant 
-#les rac
-*dw*            effacer un mot
-*2w*            déplacer 2 mot en avant    
-*d2w*           efface 2 mot en avant 
-llllllllllllllllllllllll
-*dd*            effacer la ligne
-*2dd*           effacer 2 lignes
+### effacer mot(s)
+* dw            effacer un mot
+* 2w            déplacer 2 mot en avant    
+* d2w           efface 2 mot en avant 
 *c$*            supprime la fin de cette ligne doit être  c$  devant le mot
-##raccourcis déplacer
+##se déplacer 
 *3e*            à la fin du troisième mots
 *O*             créer une ligne
 *G*		fin de texte
