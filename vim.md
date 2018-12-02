@@ -7,33 +7,29 @@
 * a 	Insertion après le curseur
 * A 	Insertion en fin de ligne
 * c 	Début d’une opération de remplacement
-* C 	Remplacement jusqu’en fin de ligne
+* C$ 	Remplacement jusqu’en fin de ligne
 * i 	Insertion avant le curseur
 * I 	Insertion en début de ligne
 * o 	Insertion à la ligne suivante
 * O 	Insertion à la ligne précédente
-* R 	Active le mode écrasement
-* s 	Remplace un caractère
-* S 	Remplace une ligne entière
-### effacer ligne
+### effacer ligne(s)
 * dd    	ligne effacée
 * 2dd           effacer 2 lignes
 * C             du curseur jusqu’à la fin de la ligne
-* 2w            déplacer 2 mot en avant    
-* d2w           efface 2 mot en avant 
 ### effacer mot(s)
 * dw            effacer un mot
 * 2w            déplacer 2 mot en avant    
 * d2w           efface 2 mot en avant 
-*c$*            supprime la fin de cette ligne doit être  c$  devant le mot
-##se déplacer 
+### se déplacer 
 *3e*            à la fin du troisième mots
 *O*             créer une ligne
 *G*		fin de texte
 *gg*		début de texte
-##d'autres raccourcis utiles:
-*ctrl + r*       deux - trois pour refaire les commandes  (annuler les annulations)
-*p*		 pour faire réapparaitre
-*rx*		 commande de deplacement il faut surplombé  changer le caractere 
+### d'autres raccourcis utiles
+*ctrl + r        deux - trois pour refaire les commandes  (annuler les annulationsi)
+* p		 pour faire réapparaitre
+* rx		 commande de deplacement il faut surplombé  changer le caractere 
 		 pour changer le u de luklo  surplombé   ce + ligne
-
+### copier, coller
+* Y		pour copier
+* p		pour coller
